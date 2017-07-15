@@ -7,3 +7,5 @@ add merge
 test git stash
 dev
 coding: utf-8
+/usr/bin/env
+
